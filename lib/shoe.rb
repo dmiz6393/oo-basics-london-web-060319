@@ -1,6 +1,3 @@
 class Book
-  attr_accessor :shoe, :brand, :color
- 
- 
- 
+  attr_accessor :size, :brand, :color, :material
 end
