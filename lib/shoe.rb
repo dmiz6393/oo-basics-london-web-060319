@@ -1,4 +1,4 @@
-class Book
+class shoe
   attr_accessor :size, :brand, :color, :material
   
   def initialize(brand)
